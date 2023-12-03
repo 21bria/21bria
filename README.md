@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Meinardus Bria
+- 👋 Hi, I’m Meinardus Bria Seran
 - 👀 I’m interested in Visual Communation | Web Develops | Mobile Apps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning NodeJS, Phyton, SPA, PWA , Artificial Intelligence
+- 💞️ I’m looking to collaborate on Open Sources Project
+- 📫 How to reach me 
+-  emai     : brya.serna@gmail.com
+-  LinkedIn : linkedin.com/in/bria-seran
 
 <!---
 21bria/21bria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
