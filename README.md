@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meinardus Bria Seran
 - 👀 I’m interested in Visual Communation | Web Develops | Mobile Apps
-- 🌱 I’m currently learning NodeJS, Phyton, SPA, Artificial Intelligence
+- 🌱 I’m currently learning PHP, Phyton, SPA, Artificial Intelligence
 - 💞️ I’m looking to collaborate on Open Sources Project
 - 📫 How to reach me 
 -  emai     : brya.serna@gmail.com
