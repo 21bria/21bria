@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP, Phyton, Dart (Flutter), SPA, Artificial Intelligence
 - 💞️ I’m looking to collaborate on Open Sources Project
 - 📫 How to reach me 
--  emai     : brya.serna@gmail.com
+-  emai     : brya.seran@gmail.com
 -  LinkedIn : linkedin.com/in/bria-seran
 
 <!---
