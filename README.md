@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meinardus Bria Seran
 - 👀 I’m interested in Visual Communation | Web Develops | Mobile Apps | Database Engineer
-- 🌱 I’m currently learning PHP (laravel), Phyton, Dart (Flutter), Vue, Nuxt, SPA, PWA, Artificial Intelligence
+- 🌱 I’m currently learning PHP (laravel), Phyton - Django, Dart (Flutter), Vue, Nuxt, SPA, PWA, Artificial Intelligence
 - 💞️ I’m looking to collaborate on Open Sources Project and freelancer
 - 📫 How to reach me 
 -  emai     : brya.seran@gmail.com
